@@ -1,0 +1,13 @@
+//setup react-native-svg use with svg files
+
+{
+    "presets": ["module:metro-react-native-babel-preset"],
+    "plugins": [
+      [
+        "babel-plugin-inline-import",
+        {
+          "extensions": [".svg"]
+        }
+      ]
+    ]
+  }
