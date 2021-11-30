@@ -1,0 +1,20 @@
+export const DataTypes = {
+  DATA_PHONE: 'DATA_PHONE',
+  DATA_ADDRESSCUR: 'DATA_ADDRESSCUR',
+  DATA_COFFEE: 'DATA_COFFEE',
+  DATA_ADDRESS_SHOP:"DATA_ADDRESS_SHOP",
+  CLEAN_DATA:"CLEAN_DATA",
+
+};
+export const LocationShopTypes={
+  ADD_DATA_SHOP:'ADD_DATA_SHOP',
+}
+export const UserType = {
+  DATA_PHONE_CUR: 'DATA_PHONE_CUR',
+  DATA_CUR: "DATA_CUR",
+  DATA_ADDRESS_TEXT: "DATA_ADDRESS_TEXT",
+  DATA_POINT:"DATA_POINT"
+};
+export const HistoryTypes ={
+  ADD_HISTORY:"ADD_HISTORY",
+}
